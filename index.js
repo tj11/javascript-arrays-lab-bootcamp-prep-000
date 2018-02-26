@@ -26,4 +26,6 @@ function prependKitten(name) {
   return newKittens
 }
 
-function removeLasKitten()
+function removeLastKitten() {
+  var newKittens = 
+}
